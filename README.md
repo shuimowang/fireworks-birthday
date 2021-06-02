@@ -16,5 +16,7 @@ https://github.com/louislivi/fireworks
 
 改：
 <script language="JavaScript">
+
   index.js内容
+
 </script>

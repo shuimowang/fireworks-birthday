@@ -11,12 +11,10 @@ https://github.com/louislivi/fireworks
 
 可以在index.html里修改标题
 
-#### 将index.js里的内容全部复制到index.html中：
+#### 将index.js里的内容全部复制到index.html的script中：
 原：<script src="js/index.js"></script>
 
 改：
 <script language="JavaScript">
-
-  index.js复制内容
 
 </script>
